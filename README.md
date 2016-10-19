@@ -3,8 +3,8 @@
 ### Overview
 
 This is the first real project for the Odin Project, emulating the Google Homepage and a Google search results page using HTML and CSS.
-In some ways, this is review for me, but since it has been a long time since I used some of these skills it is good for me to do. Also,
-using the Chrome Developer Tools is brand new to me, so that'll be fun.
+In some ways, this is review for me, but since it has been a long time since I used some of these skills it is good for me to do.
+Also, using the Chrome Developer Tools is brand new to me, so that'll be fun.
 ---
 
 ### Some Skills That I May be Using
