@@ -3,6 +3,7 @@
 ### Overview
 
 This is the first real project for the Odin Project, emulating the Google Homepage and a Google search results page using HTML and CSS. In some ways, this is review for me, but since it has been a long time since I used some of these skills it is good for me to do. Also, using the Chrome Developer Tools is brand new to me, so that'll be fun.
+
 ---
 
 ### Some Skills That I May be Using
@@ -15,6 +16,7 @@ This is the first real project for the Odin Project, emulating the Google Homepa
 6. Identify three ways you can include your CSS styles in a page
 7. Understand how to use classes and ids to target CSS at specific elements on the page
 8. Build a very basic form (even if it doesn't "go" anywhere)
+
 ---
 
 ### Link to the Directions for this Project
