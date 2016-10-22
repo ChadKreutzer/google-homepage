@@ -1,0 +1,49 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+header > div > a {
+    padding-left: 15px;
+}
+header {
+    padding-top: 10px;
+    float: right;
+}
+header > div {
+    
+    display: inline-block;
+}
+
+#words > a {
+    color: #000;
+}
+
+#prof {
+    padding-right: 25px;
+}
+
+#profilePic {
+    vertical-align: middle;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+#mainGroup{
+    display: flex;
+    padding-top: 200px;
+    align-items: center;
+    justify-content: center;
+}
+#google {
+    display: block;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}
