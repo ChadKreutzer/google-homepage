@@ -51,15 +51,60 @@ input {
     margin-left: auto;
     margin-right: auto;
 }
+form {
+    padding-top: 30px;
+}
+input {
+    border: 1px solid #d9d9d9;
+    width: 484px;
+    height: 38px;
+}
 
 #buttons {
+    padding-top: 30px;
      width: 300px;
 }
 
 #buttons>button:nth-child(1) {
     float: left;
+    width: 126px;
+    height: 36px;
 }
 
 #buttons>button:nth-child(2) {
+    float: right;
+    width: 144px;
+}
+
+button {
+    height: 36px;
+    background-color: #f2f2f2;
+    border: none;
+    font-weight: bold;
+    /*color: #d9d9d9;*/
+    font: 13.33px;
+}
+
+button:hover {
+    border: 1px solid #d9d9d9;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
+
+footer>div {
+    display: inline-block;
+    margin: 5px 15px 0px 15px;
+}
+
+#leftFoot {
+    float: left;
+}
+
+#rightFoot {
     float: right;
 }
