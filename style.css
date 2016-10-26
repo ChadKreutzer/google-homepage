@@ -27,10 +27,13 @@ header>div {
 #words>a {
     color: #000;
 }
+
 .fa:not(.fa-bell) {
     opacity: .55;
 }
-.fa:hover, .fa-stack>.fa-circle:hover {
+
+.fa:hover,
+.fa-stack>.fa-circle:hover {
     opacity: .85;
 }
 
@@ -57,9 +60,11 @@ input {
     margin-left: auto;
     margin-right: auto;
 }
+
 form {
     padding-top: 30px;
 }
+
 input {
     border: 1px solid #d9d9d9;
     width: 484px;
@@ -71,7 +76,7 @@ input {
 
 #buttons {
     padding-top: 30px;
-     width: 300px;
+    width: 300px;
 }
 
 #buttons>button:nth-child(1) {
@@ -90,12 +95,13 @@ button {
     background-color: #f2f2f2;
     border: none;
     font-weight: bold;
-    /*color: #d9d9d9;*/
+    color: #757575;
     font: 13.33px;
 }
 
 button:hover {
     border: 1px solid #d9d9d9;
+    color: #222;
 }
 
 footer {
@@ -113,9 +119,11 @@ footer>div {
     padding: 10px 20px 0px 20px;
 }
 
-#leftFoot>a, #rightFoot>a {
+#leftFoot>a,
+#rightFoot>a {
     color: #666;
 }
+
 #leftFoot {
     float: left;
 }
