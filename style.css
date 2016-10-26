@@ -27,6 +27,12 @@ header>div {
 #words>a {
     color: #000;
 }
+.fa:not(.fa-bell) {
+    opacity: .55;
+}
+.fa:hover, .fa-stack>.fa-circle {
+    opacity: .85;
+}
 
 #prof {
     padding-right: 25px;
@@ -58,6 +64,9 @@ input {
     border: 1px solid #d9d9d9;
     width: 484px;
     height: 38px;
+    background-image: url('images/sbv-mic.png');
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 #buttons {
