@@ -30,7 +30,7 @@ header>div {
 .fa:not(.fa-bell) {
     opacity: .55;
 }
-.fa:hover, .fa-stack>.fa-circle {
+.fa:hover, .fa-stack>.fa-circle:hover {
     opacity: .85;
 }
 
@@ -113,6 +113,9 @@ footer>div {
     padding: 10px 20px 0px 20px;
 }
 
+#leftFoot>a, #rightFoot>a {
+    color: #666;
+}
 #leftFoot {
     float: left;
 }
