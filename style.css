@@ -92,13 +92,16 @@ button:hover {
 footer {
     position: absolute;
     bottom: 0;
-    width: 100%;
+    left: 0;
+    right: 0;
     height: 40px;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
 }
 
 footer>div {
     display: inline-block;
-    margin: 5px 15px 0px 15px;
+    padding: 10px 20px 0px 20px;
 }
 
 #leftFoot {
