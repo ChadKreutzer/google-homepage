@@ -30,8 +30,11 @@ header>div>a {
 }
 
 .fa:hover,
-.fa-stack>.fa-circle:hover {
+.fa-stack:hover .fa-circle {
     opacity: .85;
+}
+.fa-bell:hover {
+    opacity: 1;
 }
 
 #prof {
