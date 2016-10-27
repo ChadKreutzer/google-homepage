@@ -11,10 +11,6 @@ a:not(.icon):hover {
     text-decoration: underline;
 }
 
-header>div>a {
-    padding-left: 15px;
-}
-
 header {
     padding-top: 10px;
     float: right;
@@ -24,8 +20,9 @@ header>div {
     display: inline-block;
 }
 
-#words>a {
+header>div>a {
     color: #000;
+    padding-left: 15px;
 }
 
 .fa:not(.fa-bell) {
@@ -53,9 +50,9 @@ header>div {
     padding-top: 150px;
 }
 
+input,
 #google,
-#buttons,
-input {
+#buttons {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -119,15 +116,15 @@ footer>div {
     padding: 10px 20px 0px 20px;
 }
 
-#leftFoot>a,
-#rightFoot>a {
-    color: #666;
-}
-
 #leftFoot {
     float: left;
 }
 
 #rightFoot {
     float: right;
+}
+
+#leftFoot>a,
+#rightFoot>a {
+    color: #666;
 }
